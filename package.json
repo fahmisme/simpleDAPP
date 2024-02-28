@@ -1,0 +1,17 @@
+{
+  "name": "simpledapps",
+  "version": "1.0.0",
+  "description": "Simple dapps created to make it easier for beginners who are entering the blockchain ecosystem for the first time.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Fahmi Idris",
+  "license": "ISC",
+  "devDependencies": {
+    "ethers": "5.7.2",
+    "express": "^4.18.2",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
