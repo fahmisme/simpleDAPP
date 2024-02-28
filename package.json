@@ -1,5 +1,5 @@
 {
-  "name": "simpledapps",
+  "name": "simpledapp",
   "version": "1.0.0",
   "description": "Simple dapps created to make it easier for beginners who are entering the blockchain ecosystem for the first time.",
   "main": "index.js",
