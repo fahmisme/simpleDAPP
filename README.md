@@ -18,7 +18,7 @@
 ## How to running
 - npm install simpledappz
 - npx simpledappz init
-- npm run dev
+- node index.js
 - Open your browser [http://localhost:3000](http://localhost:3000)
 - Cheers 🍻
 
