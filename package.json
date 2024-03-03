@@ -1,6 +1,6 @@
 {
   "name": "simpledappz",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Simple dapps created to make it easier for beginners who are entering the blockchain ecosystem for the first time.",
   "type": "module",
   "main": "index.js",
