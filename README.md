@@ -1,5 +1,5 @@
-# simpleDAPP
-- Description: SimpleDAPP created to make it easier for beginners who are entering the blockchain ecosystem for the first time 😊. It's applications just for create one sentence of quote or note.
+# simpleDAPPz
+- Description: SimpleDappz created to make it easier for beginners who are entering the blockchain ecosystem for the first time 😊. It's applications just for create one sentence of quote or note.
 - Demo: soon.
 
 ## Package
