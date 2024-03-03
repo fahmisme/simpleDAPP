@@ -2,14 +2,6 @@
 - Description: SimpleDappz created to make it easier for beginners who are entering the blockchain ecosystem for the first time 😊. It's applications just for create one sentence of quote or note.
 - Demo: soon.
 
-## Package
-- ethers: 5.7.2
-- express: ^4.18.2
-- webpack: ^5.90.3
-- webpack-cli: ^5.1.4
-- simpledotcss
-- Solidity: ^0.8.24 (You don't really need for just deploy this code.)
-
 ## About Smart Contract
 - I running smart contract using [remix.ethereum.org](https://remix.ethereum.org)
 - I use sepolia for testnet
