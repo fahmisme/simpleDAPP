@@ -24,7 +24,8 @@
 - More than this, you can see the currently active quote or note and can change it (But, don't write strange things 😒)
 
 ## How to running
-- npm install
+- npm install simpledappz
+- npx simpledappz init
 - npm run dev
 - Open your browser [http://localhost:3000](http://localhost:3000)
 - Cheers 🍻
